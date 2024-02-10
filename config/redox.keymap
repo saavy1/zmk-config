@@ -43,7 +43,7 @@
    &kp ESC     &kp N1    &kp N2    &kp N3    &kp N4    &kp N5    &trans               &trans &kp EXCL        &kp AT    &kp HASH  &kp LPAR  &kp RPAR    &kp PIPE
    &trans      &kp N6    &kp N7    &kp N8    &kp N9    &kp N0    &trans               &trans &kp AMPS        &kp EQUAL &kp MINUS &kp LBRC  &kp RBRC    &kp KP_MINUS
    &trans      &kp EQUAL &kp MINUS &kp PLUS  &kp DLLR  &kp PRCNT &trans &trans &trans &trans &kp SEMI        &kp COLON &kp BSLH  &kp LBKT  &kp RBKT    &kp RET
-   &bt BT_CLR  &trans    &trans    &trans          &trans        &trans &trans &trans &kp N0          &mo 3            &trans    &trans    &trans      &trans
+   &bt BT_CLR_ALL  &trans    &trans    &trans          &trans        &trans &trans &trans &kp N0          &mo 3            &trans    &trans    &trans      &trans
             >;
         };
 
